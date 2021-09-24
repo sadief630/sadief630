@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sadief630
+- 👀 I’m interested in learning to create awesome coding projects!
+- 🌱 I’m currently learning C and Advanced Data Structures
+- 📫 How to reach me: sadieforbes44@gmail.com | sforb11@lsu.edu 
