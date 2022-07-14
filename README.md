@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sadief630
-- 👀 I’m interested in learning to create awesome coding projects!
-- 🌱 I’m currently learning C and Advanced Data Structures
+- 👀 This is where I host my personal projects or cool stuff from class!
+- 🌱 I’m currently learning React, Ignition, Java, SQL, and JavaScript
 - 📫 How to reach me: sadieforbes44@gmail.com | sforb11@lsu.edu 
