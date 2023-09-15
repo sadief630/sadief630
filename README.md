@@ -1,5 +1,5 @@
 ## [Hi, I'm Sadie!](https://github.com/sadief630)
-  I'm a Junior in Software Engineering at LSU 🐯
+  I'm a Senior in Software Engineering at LSU 🐯
   
   This is where I show my personal projects and cool stuff from class!
   
