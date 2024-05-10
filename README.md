@@ -8,7 +8,10 @@
 ### Please feel free to contact me!
 __How to reach me: sadieforbes44@gmail.com | sforb11@lsu.edu__
 
+Check out my Digital Media Engineering Capstone project, a VR game called ZenScape, [here](https://youtu.be/z1XCMAiaMtU)!
+
 Check out the trailer for my Video Game Design course final project, Hole, [here](https://www.youtube.com/watch?v=1pSON6kTUIo)!
+
 
 Also, When & Wear and TypeFrog are currently private because we're making big changes to the code but they'll be back up soon.
 
